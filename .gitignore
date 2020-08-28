@@ -1,3 +1,7 @@
+#MULTIMEDIA RESOURCES
+*.png
+*.jpg
+*.mov
 # Built application files
 *.apk
 *.aar
